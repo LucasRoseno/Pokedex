@@ -3,6 +3,10 @@
     box-sizing: border-box;
     
 }
+.content a{
+    color: #000;
+    text-decoration: none;
+}
 
 .content{
     width: 100vw;
@@ -40,7 +44,7 @@
 }
 
 .electric {
-    background-color: #f7cf2e;
+    background-color: #aa912f;
 }
 
 .ice {
@@ -48,7 +52,7 @@
 }
 
 .ground {
-    background-color: #dfbf69;
+    background-color: #86733d;
 }
 
 .flying {
